@@ -1,0 +1,16 @@
+name: sqljocky
+version: 0.14.1
+description: A MySQL connector
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+
+dependencies:
+  crypto: ^3.0.1
+  logging: ^1.0.2
+
+dev_dependencies:
+  test: ^1.20.1
+  mockito: ^5.0.17
+  args: ^2.3.0
